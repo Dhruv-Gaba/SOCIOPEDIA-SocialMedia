@@ -4,6 +4,9 @@
 
 Sociopedia is a comprehensive full-stack social media platform built using the MERN stack (MongoDB, Express, React, Node.js), Redux Toolkit, and Material UI. This project integrates JWT tokens for secure authentication and authorization, providing a robust and user-friendly social media experience.
 
+![](Screenshots/login.png)
+![](Screenshots/homepage.png)
+
 ## Features
 
 - **Post Photos and Memories:** Share your favorite moments with the world.
