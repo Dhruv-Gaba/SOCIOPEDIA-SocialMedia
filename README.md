@@ -24,7 +24,7 @@ Sociopedia is a comprehensive full-stack social media platform built using the M
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Authentication:** JWT Tokens
-- **Deployment:** 
+- **Deployment:** [Click Here](https://sociopedia-socialmedia.onrender.com)
 
 ## Getting Started
 
